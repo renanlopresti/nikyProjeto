@@ -68,7 +68,7 @@ function App() {
                             <h3>Resumo</h3>
                             <h4>Gestores de área</h4>
                             <table>
-                                <tr>
+                                <tr className='list1'>
                                     <td>Alimentação</td>
                                     <td>
                                         <select>
@@ -77,7 +77,7 @@ function App() {
                                     </td>
                                     <td>excluir</td>
                                 </tr>
-                                <tr>
+                                <tr className='list2'>
                                     <td>Alimentação</td>
                                     <td>
                                         <select>
@@ -86,7 +86,7 @@ function App() {
                                     </td>
                                     <td>excluir</td>
                                 </tr>
-                                <tr>
+                                <tr className='list3'>
                                     <td>Alimentação</td>
                                     <td>
                                         <select>
@@ -95,7 +95,7 @@ function App() {
                                     </td>
                                     <td>excluir</td>
                                 </tr>
-                                <tr>
+                                <tr className='list4'>
                                     <td>Alimentação</td>
                                     <td>
                                         <select>
@@ -104,7 +104,7 @@ function App() {
                                     </td>
                                     <td>excluir</td>
                                 </tr>
-                                <tr>
+                                <tr className='list5'>
                                     <td>Alimentação</td>
                                     <td>
                                         <select>
@@ -113,7 +113,7 @@ function App() {
                                     </td>
                                     <td>excluir</td>
                                 </tr>
-                                <tr>
+                                <tr className='list6'>
                                     <td>Alimentação</td>
                                     <td>
                                         <select>

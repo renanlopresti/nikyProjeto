@@ -44,7 +44,7 @@ background-color: #FEFEFE;
 border-radius:7px;
 table{
     border-radius: 4px ;
-    padding:0 4px;
+    padding:0 2px;
     width: 100%;
     border-spacing:0 15px;
 }
@@ -65,6 +65,29 @@ table{
     width: 10vw;
     border: none;
     border-radius: 7px ;
+}
+tr{
+    height: 6vh;
+    border: none;
+    border-radius: 7px;
+}
+.list1{
+    background-color: #191970;
+}
+.list2{
+    background-color: #0000CD;
+}
+.list3{
+    background-color: #4169E1;
+}
+.list4{
+    background-color: #20B2AA;
+}
+.list5{
+    background-color: #90EE90;
+}
+.list6{
+    background-color: #ADFF2F;    
 }
 `
 export const DivCat = styled.div`
